@@ -4,7 +4,7 @@ import { DEFAULT_META_DATA } from './meta-data';
 export const DEFAULT_CONFIG = {
   prodApiEndpoint: 'https://aviastore.aviacomapi.com/',
   // prodApiEndpoint: 'http://localhost:3000/',
-  frontEndUrl: 'https://demo.aviacommerce.com/',
+  frontEndUrl: 'https://narraboss.in/',
   appName: 'NarraBoss Online Shop',
   fevicon: '/assets/default/favicon.ico',
   header: {

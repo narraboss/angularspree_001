@@ -25,5 +25,5 @@ Even if you have little to no experience with Angular, I'll be more than happy t
 13. Push your branch to your fork
 14. Create a pull request from your branch on your fork to `develop` on this repo
 15. Have your branch get merged in! :star2:
-
+in
 If you experience a problem at any point, please don't hesitate to file an issue or send me a message!

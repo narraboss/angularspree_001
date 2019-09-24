@@ -74,27 +74,22 @@ export const DEFAULT_APP_DATA = {
   ],
   footer_social_links: [
     {
-      link_url: 'https://twitter.com/aviacommerce',
+      link_url: 'https://twitter.com/narraboss',
       name: 'Twitter',
       icon: 'fa fa-twitter-square'
     },
     {
-      link_url: 'https://www.instagram.com/aviacommerce/',
+      link_url: 'https://www.instagram.com/',
       name: 'Instagram',
       icon: 'fa fa-instagram'
     },
     {
-      link_url: 'https://plus.google.com/',
-      name: 'Google +',
-      icon: 'fa fa-google-plus-square'
-    },
-    {
-      link_url: 'https://in.pinterest.com/aviacommerce/',
+      link_url: 'https://in.pinterest.com/',
       name: 'Pinterest',
       icon: 'fa fa-pinterest-square'
     },
     {
-      link_url: 'https://www.facebook.com/aviacommerce/',
+      link_url: 'https://www.facebook.com/',
       name: 'Facebook',
       icon: 'fa fa-facebook-square'
     },
