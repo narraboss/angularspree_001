@@ -18,7 +18,7 @@
     <div class="product-header-extras">
       <div class="ugc pr-3">
         <a
-          class="hide-phone js-revScrollTo reviewlink pl-1"
+          class="hi$0.00de-phone js-revScrollTo reviewlink pl-1"
           (click)="scrollToReview()"
         >
           <ngx-input-star-rating
@@ -51,11 +51,11 @@
                   <span class="d-block float-left">
                     {{ currency }}{{ product.selling_price.amount }}</span
                   >
-                  <span
+                  <!--<span
                     class="free-shipping d-block float-left d-xs-none d-sm-none d-none d-lg-block"
                     >FREE 1-2 Day
                     <span>Shipping on this item</span>
-                  </span>
+                  </span>-->
                 </li>
               </ul>
             </li>
@@ -84,13 +84,14 @@
         </div>
         <!-- <app-check-pincode></app-check-pincode> -->
       </div>
-      <div id="buybox" class="">
+<!--      <div id="buybox" class="">
+
         <app-product-count
           (onAddToCart)="addToCart($event)"
           (onMarkAsFavorites)="markAsFavorites()"
           [isOrderable]="isOrderable"
         ></app-product-count>
-      </div>
+      </div>-->
     </div>
   </div>
 </div>
@@ -113,11 +114,11 @@
                   <span class="ga-eec__price">
                     {{ currency }}{{ product.selling_price.amount }}</span
                   >
-                  <span
+                  <!--<span
                     class="free-shipping  d-xs-none d-sm-none d-none d-lg-block"
                     >FREE 1-2 Day
                     <span>Shipping on this item</span>
-                  </span>
+                  </span>-->
                 </li>
               </ul>
             </li>
